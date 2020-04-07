@@ -1,0 +1,11 @@
+﻿
+1. When requesting an email alias default alias is shown as:
+
+		" $firstname . $lastname . @ed.ac.uk "
+
+		The dot after the last name is not intended to be there and messes up the request
+
+
+2. Slower preformance after 4pm
+
+3. Menu buttons are initially enabled - should be disabled until a user is loaded (Not yet implimented)
