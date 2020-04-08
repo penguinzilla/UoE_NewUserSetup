@@ -1,0 +1,15 @@
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.csprojAssemblyReference.cache
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.Form1.resources
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.Properties.Resources.resources
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.csproj.GenerateResource.cache
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.csproj.CoreCompileInputs.cache
+C:\Users\nkelly3\source\repos\NewUser\NewUser\bin\Debug\NewUser.exe.config
+C:\Users\nkelly3\source\repos\NewUser\NewUser\bin\Debug\NewUser.exe
+C:\Users\nkelly3\source\repos\NewUser\NewUser\bin\Debug\NewUser.pdb
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.exe
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.pdb
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.Form2.resources
+C:\Users\nkelly3\source\repos\NewUser\NewUser\bin\Debug\NewUser.exe.manifest
+C:\Users\nkelly3\source\repos\NewUser\NewUser\bin\Debug\NewUser.application
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.exe.manifest
+C:\Users\nkelly3\source\repos\NewUser\NewUser\obj\Debug\NewUser.application
