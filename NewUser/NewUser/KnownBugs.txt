@@ -1,0 +1,35 @@
+﻿
+
+
+
+
+Ongoing:
+
+	Slow preformance between 4pm-6pm
+
+	When multiple users return from "Find User..." button, pressing cancel still fills listbox1 and enables menu.
+
+
+
+
+
+
+
+
+
+
+Fixed: 
+
+	Menu buttons are initially enabled - should be disabled until a user is loaded.
+	
+		// Fixed added enable_menu() and disable_menu() to Form1 //
+
+
+	When requesting an email alias default alias is shown as:
+
+		" $firstname . $lastname . @ed.ac.uk "
+
+		The dot after the last name is not intended to be there and messes up the request.
+
+		// Fixed added User.cs line 62 added trim to user object name initialization //
+
